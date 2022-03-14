@@ -118,15 +118,26 @@ namespace Laba1_1._2
 
         static private void InformationalMenu()
         {
-            Console.Write("Введите номер объекта: ");
-            int numberItem = Convert.ToInt16(Console.ReadLine());
+            string[] species = new Tree()._speciesMass;
+            for (int i = 0; i < species.Length; i++)
+            {
+                Console.WriteLine(species[i] + " - " + (i + 1));
+            }
+
+            Console.Write("Выберите какой тип дерева искать: ");
+            int numberSpecies = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("");
 
-            if (numberItem < _listTree.Count)
-                _listTree[numberItem].Show();
-            else
-                InformationalMenu();
-
+            int number = 0;
+            string desiredSpecies = species[numberSpecies - 1];
+            for (int i = 0; i < _listTree.Count; i++)
+            {
+                if (desiredSpecies == _listTree[i].WhichSpecies())
+                {
+                    number++;
+                }
+            }
+            Console.WriteLine("Найденно " + number + " типа " + desiredSpecies);
             Console.WriteLine();
         }
 
@@ -142,7 +153,7 @@ namespace Laba1_1._2
             {
                 for(int i = 0; i<_listTree.Count; i++)
                 {
-                    Console.WriteLine(_listTree[i]);
+                    _listTree[i].Show();
                 }
             }
             else if (numberMenu == 2)
@@ -152,9 +163,10 @@ namespace Laba1_1._2
                 Console.WriteLine("");
 
                 if (numberItem < _listTree.Count)
-                    Console.WriteLine(_listTree[numberItem]);
+                    _listTree[numberItem].Show();
                 else
                     ShowMenu();
+                
             }
             else
             {
