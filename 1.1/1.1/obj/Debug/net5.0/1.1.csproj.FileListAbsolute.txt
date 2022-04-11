@@ -1,0 +1,15 @@
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.csproj.AssemblyReference.cache
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.AssemblyInfoInputs.cache
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.AssemblyInfo.cs
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.csproj.CoreCompileInputs.cache
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/1.1.deps.json
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/1.1.runtimeconfig.json
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/1.1.runtimeconfig.dev.json
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/1.1.dll
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/ref/1.1.dll
+/Users/elvich/Projects/1.1/1.1/bin/Debug/net5.0/1.1.pdb
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.dll
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/ref/1.1.dll
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.pdb
+/Users/elvich/Projects/1.1/1.1/obj/Debug/net5.0/1.1.genruntimeconfig.cache

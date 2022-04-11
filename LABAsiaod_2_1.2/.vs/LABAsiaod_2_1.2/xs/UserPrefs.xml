@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{75DE8075-5253-4E68-A930-9CD8028AC9D6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LABAsiaod_2_1.2/HashSetFunctions.cs">
+    <Files>
+      <File FileName="LABAsiaod_2_1.2/Program.cs" Line="9" Column="47" />
+      <File FileName="LABAsiaod_2_1.2/Tree.cs" Line="9" Column="95" />
+      <File FileName="LABAsiaod_2_1.2/HashSetFunctions.cs" Line="37" Column="25" />
+      <File FileName="LABAsiaod_2_1.2/HashSetCI.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LABAsiaod_2_1.2" expanded="True">
+            <Node name="LABAsiaod_2_1.2" expanded="True">
+              <Node name="HashSetFunctions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LABAsiaod__2__1.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
